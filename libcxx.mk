@@ -18,7 +18,7 @@
 
 LOCAL_C_INCLUDES := \
 	external/libcxx/include \
-	external/libcxxrt/include \
+	external/libcxxabi/include \
 	$(LOCAL_C_INCLUDES) \
 
 LOCAL_SHARED_LIBRARIES += libc++
